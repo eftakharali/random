@@ -1,0 +1,19 @@
+{
+  "name": "randominteger",
+  "version": "1.0.0",
+  "description": "generates random integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "integers",
+    "random",
+    "numbers",
+    "rand",
+    "random"
+  ],
+  "author": "Eftakhar",
+  "license": "ISC"
+}
